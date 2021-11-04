@@ -20,7 +20,7 @@ int main() {
                                   {"tom",   19, 90},
                                   {"smith", 24, 67}};
     for (int i = 0; i < 3; i++) {
-        cout << (*(students + i)).name << ",";
+        cout << (students + i)->name << ",";
         cout << (*(students + i)).age << ",";
         cout << (*(students + i)).score << endl;
     }

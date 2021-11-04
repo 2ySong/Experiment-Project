@@ -64,16 +64,6 @@ CMAKE_BINARY_DIR = E:\Experiment-Project\c++\day8-struct\cmake-build-debug
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"D:\Program Files (x86)\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
-.PHONY : edit_cache
-
-# Special rule for the target edit_cache
-edit_cache/fast: edit_cache
-.PHONY : edit_cache/fast
-
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
@@ -83,6 +73,16 @@ rebuild_cache:
 # Special rule for the target rebuild_cache
 rebuild_cache/fast: rebuild_cache
 .PHONY : rebuild_cache/fast
+
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	"D:\Program Files (x86)\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+.PHONY : edit_cache
+
+# Special rule for the target edit_cache
+edit_cache/fast: edit_cache
+.PHONY : edit_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -155,6 +155,19 @@ day8_struct/fast:
 .PHONY : 02_struct_array/fast
 
 #=============================================================================
+# Target rules for targets named 08_exercise2
+
+# Build rule for target.
+08_exercise2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 08_exercise2
+.PHONY : 08_exercise2
+
+# fast build rule for target.
+08_exercise2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\08_exercise2.dir\build.make CMakeFiles/08_exercise2.dir/build
+.PHONY : 08_exercise2/fast
+
+#=============================================================================
 # Target rules for targets named k
 
 # Build rule for target.
@@ -192,6 +205,45 @@ k/fast:
 04_struct+nested/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\04_struct+nested.dir\build.make CMakeFiles/04_struct+nested.dir/build
 .PHONY : 04_struct+nested/fast
+
+#=============================================================================
+# Target rules for targets named 05_struct_var
+
+# Build rule for target.
+05_struct_var: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 05_struct_var
+.PHONY : 05_struct_var
+
+# fast build rule for target.
+05_struct_var/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05_struct_var.dir\build.make CMakeFiles/05_struct_var.dir/build
+.PHONY : 05_struct_var/fast
+
+#=============================================================================
+# Target rules for targets named 06_stuct_const
+
+# Build rule for target.
+06_stuct_const: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 06_stuct_const
+.PHONY : 06_stuct_const
+
+# fast build rule for target.
+06_stuct_const/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06_stuct_const.dir\build.make CMakeFiles/06_stuct_const.dir/build
+.PHONY : 06_stuct_const/fast
+
+#=============================================================================
+# Target rules for targets named 07_exercise1
+
+# Build rule for target.
+07_exercise1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 07_exercise1
+.PHONY : 07_exercise1
+
+# fast build rule for target.
+07_exercise1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07_exercise1.dir\build.make CMakeFiles/07_exercise1.dir/build
+.PHONY : 07_exercise1/fast
 
 01_struct_define.obj: 01_struct_define.cpp.obj
 .PHONY : 01_struct_define.obj
@@ -289,6 +341,102 @@ k/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\04_struct+nested.dir\build.make CMakeFiles/04_struct+nested.dir/04_struct+nested.cpp.s
 .PHONY : 04_struct+nested.cpp.s
 
+05_struct_var.obj: 05_struct_var.cpp.obj
+.PHONY : 05_struct_var.obj
+
+# target to build an object file
+05_struct_var.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05_struct_var.dir\build.make CMakeFiles/05_struct_var.dir/05_struct_var.cpp.obj
+.PHONY : 05_struct_var.cpp.obj
+
+05_struct_var.i: 05_struct_var.cpp.i
+.PHONY : 05_struct_var.i
+
+# target to preprocess a source file
+05_struct_var.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05_struct_var.dir\build.make CMakeFiles/05_struct_var.dir/05_struct_var.cpp.i
+.PHONY : 05_struct_var.cpp.i
+
+05_struct_var.s: 05_struct_var.cpp.s
+.PHONY : 05_struct_var.s
+
+# target to generate assembly for a file
+05_struct_var.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\05_struct_var.dir\build.make CMakeFiles/05_struct_var.dir/05_struct_var.cpp.s
+.PHONY : 05_struct_var.cpp.s
+
+06_stuct_const.obj: 06_stuct_const.cpp.obj
+.PHONY : 06_stuct_const.obj
+
+# target to build an object file
+06_stuct_const.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06_stuct_const.dir\build.make CMakeFiles/06_stuct_const.dir/06_stuct_const.cpp.obj
+.PHONY : 06_stuct_const.cpp.obj
+
+06_stuct_const.i: 06_stuct_const.cpp.i
+.PHONY : 06_stuct_const.i
+
+# target to preprocess a source file
+06_stuct_const.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06_stuct_const.dir\build.make CMakeFiles/06_stuct_const.dir/06_stuct_const.cpp.i
+.PHONY : 06_stuct_const.cpp.i
+
+06_stuct_const.s: 06_stuct_const.cpp.s
+.PHONY : 06_stuct_const.s
+
+# target to generate assembly for a file
+06_stuct_const.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\06_stuct_const.dir\build.make CMakeFiles/06_stuct_const.dir/06_stuct_const.cpp.s
+.PHONY : 06_stuct_const.cpp.s
+
+07_exercise1.obj: 07_exercise1.cpp.obj
+.PHONY : 07_exercise1.obj
+
+# target to build an object file
+07_exercise1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07_exercise1.dir\build.make CMakeFiles/07_exercise1.dir/07_exercise1.cpp.obj
+.PHONY : 07_exercise1.cpp.obj
+
+07_exercise1.i: 07_exercise1.cpp.i
+.PHONY : 07_exercise1.i
+
+# target to preprocess a source file
+07_exercise1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07_exercise1.dir\build.make CMakeFiles/07_exercise1.dir/07_exercise1.cpp.i
+.PHONY : 07_exercise1.cpp.i
+
+07_exercise1.s: 07_exercise1.cpp.s
+.PHONY : 07_exercise1.s
+
+# target to generate assembly for a file
+07_exercise1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\07_exercise1.dir\build.make CMakeFiles/07_exercise1.dir/07_exercise1.cpp.s
+.PHONY : 07_exercise1.cpp.s
+
+08_exercise2.obj: 08_exercise2.cpp.obj
+.PHONY : 08_exercise2.obj
+
+# target to build an object file
+08_exercise2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\08_exercise2.dir\build.make CMakeFiles/08_exercise2.dir/08_exercise2.cpp.obj
+.PHONY : 08_exercise2.cpp.obj
+
+08_exercise2.i: 08_exercise2.cpp.i
+.PHONY : 08_exercise2.i
+
+# target to preprocess a source file
+08_exercise2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\08_exercise2.dir\build.make CMakeFiles/08_exercise2.dir/08_exercise2.cpp.i
+.PHONY : 08_exercise2.cpp.i
+
+08_exercise2.s: 08_exercise2.cpp.s
+.PHONY : 08_exercise2.s
+
+# target to generate assembly for a file
+08_exercise2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\08_exercise2.dir\build.make CMakeFiles/08_exercise2.dir/08_exercise2.cpp.s
+.PHONY : 08_exercise2.cpp.s
+
 k.obj: k.cpp.obj
 .PHONY : k.obj
 
@@ -349,6 +497,10 @@ help:
 	@echo ... 02_struct_array
 	@echo ... 03_struct_pointer
 	@echo ... 04_struct+nested
+	@echo ... 05_struct_var
+	@echo ... 06_stuct_const
+	@echo ... 07_exercise1
+	@echo ... 08_exercise2
 	@echo ... day8_struct
 	@echo ... k
 	@echo ... 01_struct_define.obj
@@ -363,6 +515,18 @@ help:
 	@echo ... 04_struct+nested.obj
 	@echo ... 04_struct+nested.i
 	@echo ... 04_struct+nested.s
+	@echo ... 05_struct_var.obj
+	@echo ... 05_struct_var.i
+	@echo ... 05_struct_var.s
+	@echo ... 06_stuct_const.obj
+	@echo ... 06_stuct_const.i
+	@echo ... 06_stuct_const.s
+	@echo ... 07_exercise1.obj
+	@echo ... 07_exercise1.i
+	@echo ... 07_exercise1.s
+	@echo ... 08_exercise2.obj
+	@echo ... 08_exercise2.i
+	@echo ... 08_exercise2.s
 	@echo ... k.obj
 	@echo ... k.i
 	@echo ... k.s
