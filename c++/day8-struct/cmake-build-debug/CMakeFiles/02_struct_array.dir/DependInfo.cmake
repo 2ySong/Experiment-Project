@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/Love me/c++/day8-struct/02_struct_array.cpp" "E:/Love me/c++/day8-struct/cmake-build-debug/CMakeFiles/02_struct_array.dir/02_struct_array.cpp.obj"
+  "E:/Experiment-Project/c++/day8-struct/02_struct_array.cpp" "E:/Experiment-Project/c++/day8-struct/cmake-build-debug/CMakeFiles/02_struct_array.dir/02_struct_array.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,4 +1,4 @@
-# Install script for directory: E:/Love me/c++/day8-struct
+# Install script for directory: E:/Experiment-Project/c++/day8-struct
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Love me/c++/day8-struct/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Experiment-Project/c++/day8-struct/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
