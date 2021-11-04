@@ -1,0 +1,1 @@
+int a =10; main 3; char c = 7;

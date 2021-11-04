@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Love me/Compilation principle/comp.1.4.cpp
+iostream
+E:/Love me/Compilation principle/iostream
+cstdio
+-
+cstring
+-
+

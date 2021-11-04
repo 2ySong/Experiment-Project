@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Love me/PTA-cpp/pta-3/3.6.cpp
+iostream
+E:/Love me/PTA-cpp/pta-3/iostream
+stack
+E:/Love me/PTA-cpp/pta-3/stack
+

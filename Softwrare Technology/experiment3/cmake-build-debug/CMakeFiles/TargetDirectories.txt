@@ -1,0 +1,3 @@
+E:/Love me/Softwrare Technology/experiment3/cmake-build-debug/CMakeFiles/experiment3.dir
+E:/Love me/Softwrare Technology/experiment3/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Love me/Softwrare Technology/experiment3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

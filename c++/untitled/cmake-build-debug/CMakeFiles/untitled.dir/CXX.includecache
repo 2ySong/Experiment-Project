@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Love me/c++/untitled/main.cpp
+iostream
+-
+swap.h
+E:/Love me/c++/untitled/swap.h
+
+E:/Love me/c++/untitled/swap.h
+iostream
+E:/Love me/c++/untitled/iostream
+

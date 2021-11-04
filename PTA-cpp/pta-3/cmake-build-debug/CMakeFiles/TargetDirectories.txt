@@ -1,0 +1,11 @@
+E:/Love me/PTA-cpp/pta-3/cmake-build-debug/CMakeFiles/3.2.dir
+E:/Love me/PTA-cpp/pta-3/cmake-build-debug/CMakeFiles/pta_3.dir
+E:/Love me/PTA-cpp/pta-3/cmake-build-debug/CMakeFiles/3.5.2.dir
+E:/Love me/PTA-cpp/pta-3/cmake-build-debug/CMakeFiles/3.1.dir
+E:/Love me/PTA-cpp/pta-3/cmake-build-debug/CMakeFiles/3.3.dir
+E:/Love me/PTA-cpp/pta-3/cmake-build-debug/CMakeFiles/3.3_.dir
+E:/Love me/PTA-cpp/pta-3/cmake-build-debug/CMakeFiles/3.4.dir
+E:/Love me/PTA-cpp/pta-3/cmake-build-debug/CMakeFiles/3.5.dir
+E:/Love me/PTA-cpp/pta-3/cmake-build-debug/CMakeFiles/3.6.dir
+E:/Love me/PTA-cpp/pta-3/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Love me/PTA-cpp/pta-3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
