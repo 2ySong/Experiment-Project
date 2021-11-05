@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/Love me/Compilation principle/comp.1.4.cpp" "E:/Love me/Compilation principle/cmake-build-debug/CMakeFiles/comp.1.4.dir/comp.1.4.cpp.obj"
+  "E:/Experiment-Project/Compilation principle/comp.1.4.cpp" "E:/Experiment-Project/Compilation principle/cmake-build-debug/CMakeFiles/comp.1.4.dir/comp.1.4.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

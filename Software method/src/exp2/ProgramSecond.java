@@ -13,7 +13,7 @@ import java.util.Set;
 @SuppressWarnings("all")
 public class ProgramSecond {
     public static void main(String[] args) {
-        String filePath = "/E:\\Love me\\Software method\\src\\experiment2\\jj.txt";
+        String filePath = "/E:\\Love me\\Software method\\src\\experiment2\\word.txt";
 //        System.out.println();
         String str = readTxt(filePath);
         char[] chs = str.toCharArray();

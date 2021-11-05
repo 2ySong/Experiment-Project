@@ -10,7 +10,7 @@ import java.util.*;
  */
 public class ProgramSecond2 {
     public static void main(String[] args) {
-        String filePath = "/E:\\Love me\\Software method\\src\\experiment2\\jj.txt";
+        String filePath = "/E:\\Love me\\Software method\\src\\experiment2\\word.txt";
         String str = readTxt(filePath);
         char[] chs = str.toCharArray();
         Object num = null;

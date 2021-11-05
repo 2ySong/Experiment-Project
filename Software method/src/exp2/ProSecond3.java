@@ -14,7 +14,7 @@ import java.util.*;
 @SuppressWarnings("all")
 public class ProSecond3 {
     public static void main(String[] args) {
-        String filePath = "/E:\\Love me\\Software method\\src\\experiment2\\j.txt";
+        String filePath = "/E:\\Experiment-Project\\Software method\\src\\exp2\\word.txt";
         TreeMap treeMap = readTxt(filePath);
         // treemap按照value 排序
         List<Map.Entry<Integer, Integer>> list = new ArrayList<>(treeMap.entrySet());
