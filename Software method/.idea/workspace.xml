@@ -2,118 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee07199-961f-4311-be90-510a5b0363d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exp2/Pro2Pan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exp2/Pro2_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/comp1.3.3.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/1.3.3.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/Compilation_principle.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/Compilation_principle.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/Compilation_principle.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/Compilation_principle.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/byyl11.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/byyl11.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/byyl11.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/byyl11.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/byyl11.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/byyl11.dir/byyl11.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/byyl11.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/byyl11.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/byyl11.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/byyl11.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.1.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.1.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.2.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.2.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.4.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.4.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.4.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.4.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.4.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.4.dir/comp.1.4.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.4.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.4.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.4.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp.1.4.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.2.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.2.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.2.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.2.dir/comp1.3.2.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.2.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.2.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.2.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.3.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.3.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.3.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.4.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.4.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.4.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.4.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.4.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.4.dir/comp1.3.4.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.4.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.4.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.4.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.4.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.dir/comp.1.3.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.3.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.2.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.2.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.2.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.2.dir/comp1.5.2.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.2.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.2.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.2.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.dir/comp1.5.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/comp1.5.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/wjf.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/wjf.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/wjf.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/wjf.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/wjf.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/wjf.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/wjf.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/wjf.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/wjf.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/CMakeFiles/wjf.dir/wjf.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/Compilation_principle.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/Compilation_principle.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Compilation principle/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software method/DateDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software method/DateDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software method/First.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software method/ProgramSecond.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Software method/ProgramSecond.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software method/Second.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software method/Three.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software method/exp2/ProSecond3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Software method/exp2/ProSecond3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software method/exp2/ProgramSecond2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Software method/exp2/ProgramSecond2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software method/exp2/jj.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exp2/ProSecond3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exp2/ProSecond3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exp2/ProgramSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exp2/ProgramSecond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exp2/ProgramSecond2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exp2/ProgramSecond2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exp2/jj.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/exp2/word.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/day8-struct/cmake-build-debug/08_exercise2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/day8-struct/cmake-build-debug/08_exercise2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/day8-struct/cmake-build-debug/CMakeFiles/08_exercise2.dir/08_exercise2.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/day8-struct/cmake-build-debug/CMakeFiles/08_exercise2.dir/08_exercise2.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/day8-struct/cmake-build-debug/CMakeFiles/08_exercise2.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/day8-struct/cmake-build-debug/CMakeFiles/08_exercise2.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/day8-struct/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/day8-struct/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,19 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Pro2_4" />
@@ -256,6 +132,7 @@
       <workItem from="1636000208733" duration="802000" />
       <workItem from="1636035171776" duration="2254000" />
       <workItem from="1636071346450" duration="6666000" />
+      <workItem from="1636268940514" duration="207000" />
     </task>
     <servers />
   </component>

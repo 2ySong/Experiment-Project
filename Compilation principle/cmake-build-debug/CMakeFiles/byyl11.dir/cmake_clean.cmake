@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/byyl11.dir/byyl11.cpp.obj"
+  "CMakeFiles/byyl11.dir/exp1/byyl11.cpp.obj"
   "byyl11.exe"
   "byyl11.exe.manifest"
   "byyl11.pdb"

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Experiment-Project/Compilation principle/exp1/byyl11.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/Experiment-Project/Compilation principle/wjf.cpp" "E:/Experiment-Project/Compilation principle/cmake-build-debug/CMakeFiles/wjf.dir/wjf.cpp.obj"
+  "E:/Experiment-Project/Compilation principle/exp1/wjf.cpp" "E:/Experiment-Project/Compilation principle/cmake-build-debug/CMakeFiles/wjf.dir/exp1/wjf.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

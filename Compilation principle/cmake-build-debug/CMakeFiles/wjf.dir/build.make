@@ -65,27 +65,27 @@ include CMakeFiles/wjf.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/wjf.dir/flags.make
 
-CMakeFiles/wjf.dir/wjf.cpp.obj: CMakeFiles/wjf.dir/flags.make
-CMakeFiles/wjf.dir/wjf.cpp.obj: ../wjf.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Experiment-Project\Compilation principle\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/wjf.dir/wjf.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\wjf.dir\wjf.cpp.obj -c "E:\Experiment-Project\Compilation principle\wjf.cpp"
+CMakeFiles/wjf.dir/exp1/wjf.cpp.obj: CMakeFiles/wjf.dir/flags.make
+CMakeFiles/wjf.dir/exp1/wjf.cpp.obj: ../exp1/wjf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Experiment-Project\Compilation principle\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/wjf.dir/exp1/wjf.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\wjf.dir\exp1\wjf.cpp.obj -c "E:\Experiment-Project\Compilation principle\exp1\wjf.cpp"
 
-CMakeFiles/wjf.dir/wjf.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/wjf.dir/wjf.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Experiment-Project\Compilation principle\wjf.cpp" > CMakeFiles\wjf.dir\wjf.cpp.i
+CMakeFiles/wjf.dir/exp1/wjf.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/wjf.dir/exp1/wjf.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Experiment-Project\Compilation principle\exp1\wjf.cpp" > CMakeFiles\wjf.dir\exp1\wjf.cpp.i
 
-CMakeFiles/wjf.dir/wjf.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/wjf.dir/wjf.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Experiment-Project\Compilation principle\wjf.cpp" -o CMakeFiles\wjf.dir\wjf.cpp.s
+CMakeFiles/wjf.dir/exp1/wjf.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/wjf.dir/exp1/wjf.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Experiment-Project\Compilation principle\exp1\wjf.cpp" -o CMakeFiles\wjf.dir\exp1\wjf.cpp.s
 
 # Object files for target wjf
 wjf_OBJECTS = \
-"CMakeFiles/wjf.dir/wjf.cpp.obj"
+"CMakeFiles/wjf.dir/exp1/wjf.cpp.obj"
 
 # External object files for target wjf
 wjf_EXTERNAL_OBJECTS =
 
-wjf.exe: CMakeFiles/wjf.dir/wjf.cpp.obj
+wjf.exe: CMakeFiles/wjf.dir/exp1/wjf.cpp.obj
 wjf.exe: CMakeFiles/wjf.dir/build.make
 wjf.exe: CMakeFiles/wjf.dir/linklibs.rsp
 wjf.exe: CMakeFiles/wjf.dir/objects1.rsp

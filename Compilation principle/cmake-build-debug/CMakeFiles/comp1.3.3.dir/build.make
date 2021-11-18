@@ -65,27 +65,27 @@ include CMakeFiles/comp1.3.3.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/comp1.3.3.dir/flags.make
 
-CMakeFiles/comp1.3.3.dir/comp1.3.3.cpp.obj: CMakeFiles/comp1.3.3.dir/flags.make
-CMakeFiles/comp1.3.3.dir/comp1.3.3.cpp.obj: ../comp1.3.3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Experiment-Project\Compilation principle\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/comp1.3.3.dir/comp1.3.3.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\comp1.3.3.dir\comp1.3.3.cpp.obj -c "E:\Experiment-Project\Compilation principle\comp1.3.3.cpp"
+CMakeFiles/comp1.3.3.dir/exp1/comp1.3.3.cpp.obj: CMakeFiles/comp1.3.3.dir/flags.make
+CMakeFiles/comp1.3.3.dir/exp1/comp1.3.3.cpp.obj: ../exp1/comp1.3.3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Experiment-Project\Compilation principle\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/comp1.3.3.dir/exp1/comp1.3.3.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\comp1.3.3.dir\exp1\comp1.3.3.cpp.obj -c "E:\Experiment-Project\Compilation principle\exp1\comp1.3.3.cpp"
 
-CMakeFiles/comp1.3.3.dir/comp1.3.3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/comp1.3.3.dir/comp1.3.3.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Experiment-Project\Compilation principle\comp1.3.3.cpp" > CMakeFiles\comp1.3.3.dir\comp1.3.3.cpp.i
+CMakeFiles/comp1.3.3.dir/exp1/comp1.3.3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/comp1.3.3.dir/exp1/comp1.3.3.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Experiment-Project\Compilation principle\exp1\comp1.3.3.cpp" > CMakeFiles\comp1.3.3.dir\exp1\comp1.3.3.cpp.i
 
-CMakeFiles/comp1.3.3.dir/comp1.3.3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/comp1.3.3.dir/comp1.3.3.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Experiment-Project\Compilation principle\comp1.3.3.cpp" -o CMakeFiles\comp1.3.3.dir\comp1.3.3.cpp.s
+CMakeFiles/comp1.3.3.dir/exp1/comp1.3.3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/comp1.3.3.dir/exp1/comp1.3.3.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Experiment-Project\Compilation principle\exp1\comp1.3.3.cpp" -o CMakeFiles\comp1.3.3.dir\exp1\comp1.3.3.cpp.s
 
 # Object files for target comp1.3.3
 comp1_3_3_OBJECTS = \
-"CMakeFiles/comp1.3.3.dir/comp1.3.3.cpp.obj"
+"CMakeFiles/comp1.3.3.dir/exp1/comp1.3.3.cpp.obj"
 
 # External object files for target comp1.3.3
 comp1_3_3_EXTERNAL_OBJECTS =
 
-comp1.3.3.exe: CMakeFiles/comp1.3.3.dir/comp1.3.3.cpp.obj
+comp1.3.3.exe: CMakeFiles/comp1.3.3.dir/exp1/comp1.3.3.cpp.obj
 comp1.3.3.exe: CMakeFiles/comp1.3.3.dir/build.make
 comp1.3.3.exe: CMakeFiles/comp1.3.3.dir/linklibs.rsp
 comp1.3.3.exe: CMakeFiles/comp1.3.3.dir/objects1.rsp

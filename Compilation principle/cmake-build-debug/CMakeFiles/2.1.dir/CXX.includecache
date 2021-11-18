@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Experiment-Project/Compilation principle/exp2/2.1.cpp
+stdio.h
+E:/Experiment-Project/Compilation principle/exp2/stdio.h
+stdlib.h
+E:/Experiment-Project/Compilation principle/exp2/stdlib.h
+

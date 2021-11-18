@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/wjf.dir/wjf.cpp.obj"
+  "CMakeFiles/wjf.dir/exp1/wjf.cpp.obj"
   "libwjf.dll.a"
   "wjf.exe"
   "wjf.exe.manifest"

@@ -65,27 +65,27 @@ include CMakeFiles/comp.1.4.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/comp.1.4.dir/flags.make
 
-CMakeFiles/comp.1.4.dir/comp.1.4.cpp.obj: CMakeFiles/comp.1.4.dir/flags.make
-CMakeFiles/comp.1.4.dir/comp.1.4.cpp.obj: ../comp.1.4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Experiment-Project\Compilation principle\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/comp.1.4.dir/comp.1.4.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\comp.1.4.dir\comp.1.4.cpp.obj -c "E:\Experiment-Project\Compilation principle\comp.1.4.cpp"
+CMakeFiles/comp.1.4.dir/exp1/comp.1.4.cpp.obj: CMakeFiles/comp.1.4.dir/flags.make
+CMakeFiles/comp.1.4.dir/exp1/comp.1.4.cpp.obj: ../exp1/comp.1.4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Experiment-Project\Compilation principle\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/comp.1.4.dir/exp1/comp.1.4.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\comp.1.4.dir\exp1\comp.1.4.cpp.obj -c "E:\Experiment-Project\Compilation principle\exp1\comp.1.4.cpp"
 
-CMakeFiles/comp.1.4.dir/comp.1.4.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/comp.1.4.dir/comp.1.4.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Experiment-Project\Compilation principle\comp.1.4.cpp" > CMakeFiles\comp.1.4.dir\comp.1.4.cpp.i
+CMakeFiles/comp.1.4.dir/exp1/comp.1.4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/comp.1.4.dir/exp1/comp.1.4.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Experiment-Project\Compilation principle\exp1\comp.1.4.cpp" > CMakeFiles\comp.1.4.dir\exp1\comp.1.4.cpp.i
 
-CMakeFiles/comp.1.4.dir/comp.1.4.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/comp.1.4.dir/comp.1.4.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Experiment-Project\Compilation principle\comp.1.4.cpp" -o CMakeFiles\comp.1.4.dir\comp.1.4.cpp.s
+CMakeFiles/comp.1.4.dir/exp1/comp.1.4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/comp.1.4.dir/exp1/comp.1.4.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Experiment-Project\Compilation principle\exp1\comp.1.4.cpp" -o CMakeFiles\comp.1.4.dir\exp1\comp.1.4.cpp.s
 
 # Object files for target comp.1.4
 comp_1_4_OBJECTS = \
-"CMakeFiles/comp.1.4.dir/comp.1.4.cpp.obj"
+"CMakeFiles/comp.1.4.dir/exp1/comp.1.4.cpp.obj"
 
 # External object files for target comp.1.4
 comp_1_4_EXTERNAL_OBJECTS =
 
-comp.1.4.exe: CMakeFiles/comp.1.4.dir/comp.1.4.cpp.obj
+comp.1.4.exe: CMakeFiles/comp.1.4.dir/exp1/comp.1.4.cpp.obj
 comp.1.4.exe: CMakeFiles/comp.1.4.dir/build.make
 comp.1.4.exe: CMakeFiles/comp.1.4.dir/linklibs.rsp
 comp.1.4.exe: CMakeFiles/comp.1.4.dir/objects1.rsp

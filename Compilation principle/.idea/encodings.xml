@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/comp.1.4.cpp" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/comp1.5.2.cpp" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/comp1.5.cpp" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/result.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/test.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exp1/comp.1.4.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/exp1/comp1.5.2.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/exp1/comp1.5.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/exp1/result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/exp1/test.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exp2/2.1.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/exp2/2.2.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/exp2/2.3.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../Program Cache Files/WeChat File/WeChat Files/wxid_g4blc18yw4ya22/FileStorage/File/2021-11/编译原理实验2.cpp" charset="GBK" />
   </component>
 </project>
